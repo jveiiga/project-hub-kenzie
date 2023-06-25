@@ -1,71 +1,52 @@
-# Getting Started with Create React App
+<h1 align="center">Hub Kenzie 🏢</h1>
+<p align="center">
+  <img alt="Imagem ilustrativa" src="https://hubsalvador.com.br/wp-content/uploads/2023/01/linhasPalavrasHub.webp" width="100%" height="150"/>
+</p>
+<h4>Projeto criado com o intuito de demonstrar minhas habilidades na criação de projetos utilizando React, useState, useEffect, useContext, TypeScript e styled-components.</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📺 Imagem
 
-## Available Scripts
+<details>
+  
+<summary>Clique para ver a imagem do projeto</summary>
+  
+![Printscreen](https://github.com/community/community/assets/57195630/0c93f6a6-86e6-4c4e-ab06-65d154ff0d9f)
 
-In the project directory, you can run:
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</details> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💻 Linguagens e tecnologias utilizadas
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="60" max-width="100%">
+<img src="https://styles.redditmedia.com/t5_2v6gg/styles/communityIcon_4w7vh6c21f871.png?width=256&s=e2c5fe5b2d65d48718b9b093d2cfd053c54f09d0" alt="typeScript" width="70" height="70" max-width="100%">
+<img src="https://miro.medium.com/v2/resize:fit:652/1*N0XV3gco7Ed4brMoxwdjVg.png" alt="styled-components" width="80" height="70" max-width="100%">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oGEXGSkH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iu70z7h4vp482ptvsw3d.png" alt="axios" width="110" height="70" max-width="100%">
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Funcionalidades da aplicação
+  - Um hub onde os usuários podem se cadastrar e cadastrar suas tecnologias. 
 
-### `yarn eject`
+## Instalação
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    - Clonar repositorio
+    $ git clone https://github.com/jveiiga/project-hub-kenzie.git
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    FRONT-END 📺
+    
+    $ cd project-hub-kenzie
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    - Instalação de dependências
+    $ yarn install
+    ou
+    $ npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    - Rodar projeto
+    $ yarn dev
+    ou
+    $ npm dev
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# project-hub-kenzie
