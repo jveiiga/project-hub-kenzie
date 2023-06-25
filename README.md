@@ -10,7 +10,7 @@
   
 <summary>Clique para ver a imagem do projeto</summary>
   
-![Printscreen](https://github.com/community/community/assets/57195630/0c93f6a6-86e6-4c4e-ab06-65d154ff0d9f)
+![Printscreen](https://github.com/community/community/assets/57195630/ad0ea484-0dce-41e0-8ab1-3f121bc329a3)
 
 
 
